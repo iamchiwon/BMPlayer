@@ -1,3 +1,13 @@
+forked from [BrikerMan/BMPlayer](https://github.com/BrikerMan/BMPlayer)
+
+Updated
+
+* dependancy versions
+* callback for full screen
+
+---
+
+
 ## BMPlayer
 
 ![Swift 2.2](https://img.shields.io/badge/Swift-2.2-orange.svg?style=flat)
